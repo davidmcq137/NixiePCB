@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "medido")(type "Legacy")(uri "/home/davidmcq/MedidoPumpV2/medido.lib")(options "")(descr ""))
+  (lib (name "NixieClockV1-rescue")(type "KiCad")(uri "${KIPRJMOD}/NixieClockV1-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "NixiePhoton2Ctrl-rescue")(type "KiCad")(uri "/home/davidmcq/NixieClock/NixiePhoton2Ctrl/NixiePhoton2Ctrl-rescue.kicad_sym")(options "")(descr ""))
+)

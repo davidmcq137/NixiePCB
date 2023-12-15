@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name NixieTest-rescue)(type Legacy)(uri ${KIPRJMOD}/NixieTest-rescue.lib)(options "")(descr ""))
+)

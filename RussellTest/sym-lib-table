@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NixieClockV1-cache")(type "KiCad")(uri "/home/davidmcq/NixieClock/NixieClockV1K5/NixieClockV1-cache.kicad_sym")(options "")(descr ""))
+  (lib (name "medido")(type "KiCad")(uri "/home/davidmcq/NixieClock/NixieClockV1K7/medido.kicad_sym")(options "")(descr ""))
+)

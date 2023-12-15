@@ -1,0 +1,515 @@
+Cmp-Mod V01 Created by PcbNew   date = Thu 14 Dec 2023 12:10:22 AM EST
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f23feb7
+Path = /00000000-0000-0000-0000-00005f282033
+Reference = C1;
+ValeurCmp = CP1;
+IdModule  = Capacitor_THT:CP_Radial_D7.5mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f23ff5a
+Path = /00000000-0000-0000-0000-00005f281ef6
+Reference = C2;
+ValeurCmp = CP1;
+IdModule  = Capacitor_THT:CP_Radial_D7.5mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f240010
+Path = /00000000-0000-0000-0000-00005f314958
+Reference = J7;
+ValeurCmp = 170V In;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f2400a0
+Path = /00000000-0000-0000-0000-00005eaf00f0
+Reference = Q1;
+ValeurCmp = MPSA42;
+IdModule  = Package_TO_SOT_THT:TO-92_Inline;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f2400b2
+Path = /00000000-0000-0000-0000-00005eaf01c1
+Reference = Q2;
+ValeurCmp = MPSA42;
+IdModule  = Package_TO_SOT_THT:TO-92_Inline;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f2400c4
+Path = /00000000-0000-0000-0000-00005eb470cb
+Reference = Q3;
+ValeurCmp = MPSA42;
+IdModule  = Package_TO_SOT_THT:TO-92_Inline;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f2400d6
+Path = /00000000-0000-0000-0000-00005eb470d1
+Reference = Q4;
+ValeurCmp = MPSA42;
+IdModule  = Package_TO_SOT_THT:TO-92_Inline;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f2400ed
+Path = /00000000-0000-0000-0000-00005ea7682e
+Reference = R1;
+ValeurCmp = 3K3;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f240104
+Path = /00000000-0000-0000-0000-00005ea765f9
+Reference = R2;
+ValeurCmp = 8K2;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f24011b
+Path = /00000000-0000-0000-0000-00005eaabd93
+Reference = R3;
+ValeurCmp = 3K3;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f240149
+Path = /00000000-0000-0000-0000-00005eaabd87
+Reference = R4;
+ValeurCmp = 8K2;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f240160
+Path = /00000000-0000-0000-0000-00005edf15bc
+Reference = R5;
+ValeurCmp = 3K3;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f240177
+Path = /00000000-0000-0000-0000-00005eb297d6
+Reference = R6;
+ValeurCmp = 6K8;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f24018e
+Path = /00000000-0000-0000-0000-00005eb296f5
+Reference = R7;
+ValeurCmp = 6K8;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f2401a5
+Path = /00000000-0000-0000-0000-00005eaf0479
+Reference = R8;
+ValeurCmp = 68K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f2401bc
+Path = /00000000-0000-0000-0000-00005eaf0744
+Reference = R9;
+ValeurCmp = 68K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f2401d3
+Path = /00000000-0000-0000-0000-00005ead3cd1
+Reference = R10;
+ValeurCmp = 3K3;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f240201
+Path = /00000000-0000-0000-0000-00005ead3cc5
+Reference = R11;
+ValeurCmp = 8K2;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f240218
+Path = /00000000-0000-0000-0000-00005ead3d1e
+Reference = R12;
+ValeurCmp = 3K3;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f24022f
+Path = /00000000-0000-0000-0000-00005ead3d12
+Reference = R13;
+ValeurCmp = 8K2;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f240246
+Path = /00000000-0000-0000-0000-00005ee4196a
+Reference = R14;
+ValeurCmp = 3K3;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f24025d
+Path = /00000000-0000-0000-0000-00005f13c228
+Reference = R15;
+ValeurCmp = 6K8;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f240274
+Path = /00000000-0000-0000-0000-00005eb470e4
+Reference = R16;
+ValeurCmp = 6K8;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f24028b
+Path = /00000000-0000-0000-0000-00005eb470d7
+Reference = R17;
+ValeurCmp = 68K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f2402fe
+Path = /00000000-0000-0000-0000-00005eb470dd
+Reference = R18;
+ValeurCmp = 68K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f240315
+Path = /00000000-0000-0000-0000-00005eac8708
+Reference = R19;
+ValeurCmp = 3K3;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f24032c
+Path = /00000000-0000-0000-0000-00005eac86fc
+Reference = R20;
+ValeurCmp = 8K2;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f240343
+Path = /00000000-0000-0000-0000-00005eac8755
+Reference = R21;
+ValeurCmp = 3K3;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f24035a
+Path = /00000000-0000-0000-0000-00005eac8749
+Reference = R22;
+ValeurCmp = 8K2;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f24039f
+Path = /00000000-0000-0000-0000-00005ea61852
+Reference = U1;
+ValeurCmp = FOD832;
+IdModule  = Package_DIP:DIP-4_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f2403cb
+Path = /00000000-0000-0000-0000-00005e916e7d
+Reference = U2;
+ValeurCmp = 74141;
+IdModule  = Package_DIP:DIP-16_W7.62mm_Socket;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f24040b
+Path = /00000000-0000-0000-0000-00005e91a69b
+Reference = U3;
+ValeurCmp = 74HC4094;
+IdModule  = Package_DIP:DIP-16_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f240423
+Path = /00000000-0000-0000-0000-00005eaabd81
+Reference = U4;
+ValeurCmp = FOD832;
+IdModule  = Package_DIP:DIP-4_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f24044f
+Path = /00000000-0000-0000-0000-00005e917e9d
+Reference = U5;
+ValeurCmp = 74141;
+IdModule  = Package_DIP:DIP-16_W7.62mm_Socket;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f240467
+Path = /00000000-0000-0000-0000-00005edc987a
+Reference = U6;
+ValeurCmp = FOD832;
+IdModule  = Package_DIP:DIP-4_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f24047f
+Path = /00000000-0000-0000-0000-00005ead3cbf
+Reference = U7;
+ValeurCmp = FOD832;
+IdModule  = Package_DIP:DIP-4_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f2404ab
+Path = /00000000-0000-0000-0000-00005ead3c42
+Reference = U8;
+ValeurCmp = 74141;
+IdModule  = Package_DIP:DIP-16_W7.62mm_Socket;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f2404cf
+Path = /00000000-0000-0000-0000-00005ea8bcbb
+Reference = U9;
+ValeurCmp = 74HC4094;
+IdModule  = Package_DIP:DIP-16_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f2404f3
+Path = /00000000-0000-0000-0000-00005ead3c4e
+Reference = U10;
+ValeurCmp = 74HC4094;
+IdModule  = Package_DIP:DIP-16_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f24050b
+Path = /00000000-0000-0000-0000-00005ead3d0c
+Reference = U11;
+ValeurCmp = FOD832;
+IdModule  = Package_DIP:DIP-4_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f24054f
+Path = /00000000-0000-0000-0000-00005ee4171c
+Reference = U13;
+ValeurCmp = FOD832;
+IdModule  = Package_DIP:DIP-4_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f240567
+Path = /00000000-0000-0000-0000-00005eac86f6
+Reference = U14;
+ValeurCmp = FOD832;
+IdModule  = Package_DIP:DIP-4_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f2405bf
+Path = /00000000-0000-0000-0000-00005eac8685
+Reference = U16;
+ValeurCmp = 74HC4094;
+IdModule  = Package_DIP:DIP-16_W7.62mm_Socket;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f2405d9
+Path = /00000000-0000-0000-0000-00005f281a30
+Reference = U17;
+ValeurCmp = 7805;
+IdModule  = Package_TO_SOT_THT:TO-220-3_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f2405f1
+Path = /00000000-0000-0000-0000-00005eac8743
+Reference = U18;
+ValeurCmp = FOD832;
+IdModule  = Package_DIP:DIP-4_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f24061d
+Path = /00000000-0000-0000-0000-00005eac867f
+Reference = U19;
+ValeurCmp = 74141;
+IdModule  = Package_DIP:DIP-16_W7.62mm_Socket;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00006589a36f
+Path = /00000000-0000-0000-0000-00006594c80e
+Reference = J1;
+ValeurCmp = To/From Processor;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00006589b068
+Path = /00000000-0000-0000-0000-00005ead3c48
+Reference = U12;
+ValeurCmp = 74141;
+IdModule  = Package_DIP:DIP-16_W7.62mm_Socket;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00006589b754
+Path = /00000000-0000-0000-0000-00005eac8679
+Reference = U15;
+ValeurCmp = 74141;
+IdModule  = Package_DIP:DIP-16_W7.62mm_Socket;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000065aea5b6
+Path = /00000000-0000-0000-0000-000065fa3214
+Reference = J2;
+ValeurCmp = Q5;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000065aea8a4
+Path = /00000000-0000-0000-0000-000065fa3767
+Reference = J5;
+ValeurCmp = Q8;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000065aea8e0
+Path = /00000000-0000-0000-0000-000065fa3529
+Reference = J4;
+ValeurCmp = Q7;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000065aea91c
+Path = /00000000-0000-0000-0000-000065fa33a5
+Reference = J3;
+ValeurCmp = Q6;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000065aeafd0
+Path = /00000000-0000-0000-0000-000065b6dd9b
+Reference = J6;
+ValeurCmp = 12V input;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000065bb1a85
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000065bb1abb
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f240022
+Path = /00000000-0000-0000-0000-00005e937362
+Reference = N1;
+ValeurCmp = R|Z568M;
+IdModule  = MedidoFootprints:RZ568M;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f240034
+Path = /00000000-0000-0000-0000-00005eaabd54
+Reference = N2;
+ValeurCmp = R|Z568M;
+IdModule  = MedidoFootprints:RZ568M;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f24003d
+Path = /00000000-0000-0000-0000-00005eaefe9c
+Reference = N3;
+ValeurCmp = Separator;
+IdModule  = MedidoFootprints:Separator;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f24004f
+Path = /00000000-0000-0000-0000-00005ead3c64
+Reference = N4;
+ValeurCmp = R|Z568M;
+IdModule  = MedidoFootprints:RZ568M;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f240061
+Path = /00000000-0000-0000-0000-00005ead3cdf
+Reference = N5;
+ValeurCmp = R|Z568M;
+IdModule  = MedidoFootprints:RZ568M;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f24006a
+Path = /00000000-0000-0000-0000-00005eb63c37
+Reference = N6;
+ValeurCmp = Separator;
+IdModule  = MedidoFootprints:Separator;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f24007c
+Path = /00000000-0000-0000-0000-00005eac869b
+Reference = N7;
+ValeurCmp = R|Z568M;
+IdModule  = MedidoFootprints:RZ568M;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00005f24008e
+Path = /00000000-0000-0000-0000-00005eac8716
+Reference = N8;
+ValeurCmp = R|Z568M;
+IdModule  = MedidoFootprints:RZ568M;
+EndCmp
+
+EndListe
