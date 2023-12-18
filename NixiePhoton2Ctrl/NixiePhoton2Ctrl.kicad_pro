@@ -121,7 +121,7 @@
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.09999999999999999,
         "min_via_diameter": 0.39999999999999997,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -164,7 +164,10 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.4
+      ],
       "via_dimensions": [],
       "zones_allow_external_fillets": false
     },
@@ -422,6 +425,10 @@
     "netclass_patterns": [
       {
         "netclass": "Default",
+        "pattern": "+3V3"
+      },
+      {
+        "netclass": "Default",
         "pattern": "+5V"
       },
       {
@@ -450,6 +457,10 @@
       },
       {
         "netclass": "Default",
+        "pattern": "Net-(U1-Pad10)"
+      },
+      {
+        "netclass": "Default",
         "pattern": "Net-(U1-Pad13)"
       },
       {
@@ -470,19 +481,11 @@
       },
       {
         "netclass": "Default",
-        "pattern": "Net-(U1-Pad2)"
-      },
-      {
-        "netclass": "Default",
         "pattern": "Net-(U1-Pad20)"
       },
       {
         "netclass": "Default",
         "pattern": "Net-(U1-Pad21)"
-      },
-      {
-        "netclass": "Default",
-        "pattern": "Net-(U1-Pad22)"
       },
       {
         "netclass": "Default",
@@ -595,6 +598,11 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "36e4bd2f-dff6-4777-8b05-ba4ff483a849",
+      ""
+    ]
+  ],
   "text_variables": {}
 }

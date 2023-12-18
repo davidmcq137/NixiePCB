@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,PinHeader_1x02_P2.54mm_Vertical,1,DST Switch,
+J2,PinHeader_1x06_P2.54mm_Vertical,1,Main Board,
+J3,PinHeader_1x05_P2.54mm_Vertical,1,Rotary Encoder,
+"R1, R2",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,4K7,
+U1,Particle_Photon2,1,Particle_Photon2,
+U2,DS3231RTC,1,DS3231RTC,
